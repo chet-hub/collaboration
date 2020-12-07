@@ -12,3 +12,5 @@
 12. adds my name
 $ atom tenlines.txt
 $ cat tenlines.txt
+
+add something to practise conflict resolving
