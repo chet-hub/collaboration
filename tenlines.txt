@@ -10,3 +10,5 @@
 10.line ten
 11. line eleven
 12. adds my name
+$ atom tenlines.txt
+$ cat tenlines.txt
